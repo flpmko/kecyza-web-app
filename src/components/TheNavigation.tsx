@@ -27,6 +27,9 @@ const TheNavigation: React.FC<Props> = () => {
             <NavLink to="/workshops" activeClassName={styles.active}>
                 Workshops
             </NavLink>
+            <NavLink to="/help" activeClassName={styles.active}>
+                Help
+            </NavLink>
         </nav>
 
     )
