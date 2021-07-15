@@ -13,6 +13,7 @@ import Home from './views/Home'
 import Food from './views/Food'
 import Leaderboard from './views/Leaderboard'
 import Schedule from './views/Schedule'
+import Workshops from './views/Workshops'
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           <Route path="/schedule" component={Schedule} />
           <Route path="/leaderboard" component={Leaderboard} />
           <Route path="/food" component={Food} />
+          <Route path="/workshops" component={Workshops} />
         </Switch>
       </main>
     </div>
