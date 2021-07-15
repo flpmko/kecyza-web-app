@@ -8,23 +8,28 @@ const Help: React.FC = () => {
                 Need help? Here are some useful information:
                 <br />
                 <br />
-                <strong>MEDIC</strong>
+                <strong>MEDICS</strong>
                 <br />
-                Jany Šimočko
+                Jany Šimočko - A25
                 <br />
                 <small>+421 915 906 765‬</small>
                 <br />
                 <br />
+                Anna Ladecká - B24
+                <br />
+                <small>+421 000 000 000‬</small>
+                <br />
+                <br />
                 <strong>HOUSING</strong>
                 <br />
-                Jany Šimočko
+                Jany Šimočko - A25
                 <br />
                 <small>+421 915 906 765‬</small>
                 <br />
                 <br />
                 <strong>CAMP LEADER</strong>
                 <br />
-                Adrián Marušák
+                Adrián Marušák - A26
                 <br />
                 <small>+421 902 107 070‬</small>
             </p>
