@@ -8,7 +8,7 @@ const Help: React.FC = () => {
                 Need help? Here are some useful information:
                 <br />
                 <br />
-                <strong>MEDICS</strong>
+                <strong>MEDIC</strong>
                 <br />
                 Jany Šimočko - A25
                 <br />
