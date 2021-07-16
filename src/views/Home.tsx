@@ -1,10 +1,12 @@
 import React from 'react'
 
 const Home: React.FC = () => {
+    const day = new Date().getDate() - 18
+
     return (
         <div className="home">
-            <h1>Day <strong>#1</strong> of camp</h1>
-            <p>6 days full of fun remaining!</p>
+            <h1>Day <strong>#{day < 0 ? 0 : day}</strong> of camp</h1>
+            <p>{day < 0 ? 7 : 7 - day} days full of fun remaining!</p>
 
             {/* TODO -> aktualny datum (a cas so sekundami) */}
             {/* TODO -> z komponentu Food jedlo na aktualny den */}
@@ -15,5 +17,6 @@ const Home: React.FC = () => {
         </div>
     )
 }
+
 
 export default Home

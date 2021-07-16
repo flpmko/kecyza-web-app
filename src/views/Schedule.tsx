@@ -6,9 +6,9 @@ const Schedule: React.FC = () => {
     return (
         <div>
             <h1>Schedule 🗓</h1>
-            <p>Please, always be on time! Check out the schedule!</p>
+            <p>Please, always be on time! Check out the camp schedule!</p>
             <br />
-            <img src={schedule} />
+            <img src={schedule} alt=" " />
             <br />
             <br />
         </div>

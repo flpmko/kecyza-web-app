@@ -6,7 +6,6 @@ export const Workshops: React.FC = () => {
             <h1>Workshops 🎭</h1>
             <p>These are the workshops you can choose from:</p>
             <br />
-            <br />
             <strong>WORKOUT</strong>
             <br />
             Romča & Ivo
