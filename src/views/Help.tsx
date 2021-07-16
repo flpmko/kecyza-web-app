@@ -17,7 +17,7 @@ const Help: React.FC = () => {
                 <br />
                 Anna Ladecká - B24
                 <br />
-                <small>+421 000 000 000‬</small>
+                <small>+421 948 405 695‬</small>
                 <br />
                 <br />
                 <strong>HOUSING</strong>
