@@ -8,7 +8,7 @@ export const Workshops: React.FC = () => {
             <br />
             <strong>WORKOUT</strong>
             <br />
-            Romča & Ivo
+            Ivo
             <br />
             <br />
             <strong>DANCE</strong>
@@ -18,22 +18,22 @@ export const Workshops: React.FC = () => {
             <br />
             <strong>CREATIVE</strong>
             <br />
-            Lucka
-            <br />
-            <br />
-            <strong>DEEP</strong>
-            <br />
-            Lenka
+            Lucka & Evka
             <br />
             <br />
             <strong>RELATIONSHIPS</strong>
             <br />
-            Peťa
+            Peťka & Lenka
             <br />
             <br />
             <strong>SINGING</strong>
             <br />
             Beky
+            <br />
+            <br />
+            <strong>BEYOND INTROVERT</strong>
+            <br />
+            Majo
             <br />
             <br />
         </div>

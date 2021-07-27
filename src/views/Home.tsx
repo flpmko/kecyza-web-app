@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Home: React.FC = () => {
-    const day = new Date().getDate() - 18
+    const day = new Date().getDate() - 17
 
     return (
         <div className="home">
